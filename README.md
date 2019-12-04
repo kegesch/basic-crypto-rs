@@ -5,3 +5,11 @@
 * Extended Euclidean Algorithm
 * Fermat Factorization
 
+## To Be Implemented
+* Pollard's Rho
+* Index Calculus
+* Primality Testing
+* Brute Force Logarithm
+* Smooth Number Factorization
+* Pohlig Helmann
+
