@@ -1,2 +1,7 @@
-# basic-crypto-rs
-Basic crypto algorithms in rust
+# Basic Crypto Algorithms in Rust
+## Implemented
+* Shank's Baby-Step Giant-Step
+* Inverse Modulus Calculation
+* Extended Euclidean Algorithm
+* Fermat Factorization
+
