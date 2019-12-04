@@ -1,9 +1,5 @@
 use std::collections::HashMap;
 
-fn main() {
-    println!("Hello, world!");
-}
-
 fn shanks(h: usize, g: usize, modulus: usize) -> usize {
     let order = modulus - 1;
     let l = (order as f64).sqrt().ceil() as u32;

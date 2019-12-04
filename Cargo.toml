@@ -1,5 +1,6 @@
 [package]
 name = "crypto"
+description = "Set of basic cryptography algorithms."
 version = "0.1.0"
 authors = ["Jonas Geschke <github@yonny.de>"]
 edition = "2018"
